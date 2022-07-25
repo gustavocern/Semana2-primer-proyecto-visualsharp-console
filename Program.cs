@@ -11,6 +11,12 @@ namespace Semana2_primer_proyecto_visualsharp_console
         static void Main(string[] args)
         {
             Console.WriteLine("Primer cambio en el codigo");
+
+            int a = 12;
+            int b = 9;
+            int c = a + b;
+            Console.WriteLine(c);
+            Console.ReadKey();
         }
     }
 }
