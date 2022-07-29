@@ -106,7 +106,7 @@ namespace Semana2_primer_proyecto_visualsharp_console
                 Console.WriteLine("------------------------\n");
 
                
-                Console.Write("Precione ENTER para cerrar la consola: ");
+                Console.Write("Precione ENTER para seguir o ´n´ para cerrar la consola: ");
                 if (Console.ReadLine() == "n") endApp = true;
 
                 Console.WriteLine("\n");
